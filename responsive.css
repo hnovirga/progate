@@ -15,7 +15,7 @@
   }
   
   /* Untuk Smartphone */
-  @media all and (max-width: 800px) {
+  @media all and (max-width: 670px) {
     .lesson {
       width: 100%;
     }
@@ -26,10 +26,6 @@
     
     .btn {
       width: 100%;
-    }
-    
-    .facebook {
-      margin-bottom: 10px;
     }
     
     .top-wrapper {
