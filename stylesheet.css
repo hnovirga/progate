@@ -114,6 +114,14 @@ body {
     background-color: rgba(255, 255, 255, 0.3);
   }
 
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+
   .content-wrapper {
     padding-bottom:80px;
     background-color:#f7f7f7;
