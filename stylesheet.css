@@ -11,6 +11,10 @@ body {
     text-decoration: none;
   }
 
+.clear {
+  clear:left;
+}
+
   .container {
     width:100%;
     padding-left:15px;
